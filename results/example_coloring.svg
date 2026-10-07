@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="490" viewBox="0 0 820 490" role="img" aria-labelledby="title desc">
+<title id="title">A validated four-color assignment for 48 states</title>
+<desc id="desc">Schematic tile grid in reference variable order, not geographic boundaries. Seed 0, MRV, shuffle prefix 40.</desc>
+<rect width="820" height="490" rx="16" fill="#f4f7fa"/>
+<text x="30" y="40" font-family="sans-serif" font-size="23" font-weight="bold" fill="#183246">48 states · four colors · all constraints verified</text>
+<text x="30" y="68" font-family="sans-serif" font-size="13" fill="#516575">Seed 0 · MRV · first 40 variables shuffled · schematic assignment</text>
+<rect x="30" y="92" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="72" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">WA</text>
+<rect x="126" y="92" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="168" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">OR</text>
+<rect x="222" y="92" width="84" height="44" rx="7" fill="#f9edc7"/>
+<text x="264" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#765b13">CA</text>
+<rect x="318" y="92" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="360" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">NV</text>
+<rect x="414" y="92" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="456" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">ID</text>
+<rect x="510" y="92" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="552" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">UT</text>
+<rect x="606" y="92" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="648" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">AZ</text>
+<rect x="702" y="92" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="744" y="121" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">MT</text>
+<rect x="30" y="148" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="72" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">WY</text>
+<rect x="126" y="148" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="168" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">CO</text>
+<rect x="222" y="148" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="264" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">NM</text>
+<rect x="318" y="148" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="360" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">ND</text>
+<rect x="414" y="148" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="456" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">SD</text>
+<rect x="510" y="148" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="552" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">NE</text>
+<rect x="606" y="148" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="648" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">KS</text>
+<rect x="702" y="148" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="744" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">OK</text>
+<rect x="30" y="204" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="72" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">TX</text>
+<rect x="126" y="204" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="168" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">MN</text>
+<rect x="222" y="204" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="264" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">IA</text>
+<rect x="318" y="204" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="360" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">MO</text>
+<rect x="414" y="204" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="456" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">AR</text>
+<rect x="510" y="204" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="552" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">LA</text>
+<rect x="606" y="204" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="648" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">WI</text>
+<rect x="702" y="204" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="744" y="233" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">IL</text>
+<rect x="30" y="260" width="84" height="44" rx="7" fill="#f9edc7"/>
+<text x="72" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#765b13">IN</text>
+<rect x="126" y="260" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="168" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">MI</text>
+<rect x="222" y="260" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="264" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">OH</text>
+<rect x="318" y="260" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="360" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">KY</text>
+<rect x="414" y="260" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="456" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">TN</text>
+<rect x="510" y="260" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="552" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">MS</text>
+<rect x="606" y="260" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="648" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">AL</text>
+<rect x="702" y="260" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="744" y="289" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">GA</text>
+<rect x="30" y="316" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="72" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">FL</text>
+<rect x="126" y="316" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="168" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">SC</text>
+<rect x="222" y="316" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="264" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">NC</text>
+<rect x="318" y="316" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="360" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">VA</text>
+<rect x="414" y="316" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="456" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">WV</text>
+<rect x="510" y="316" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="552" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">PA</text>
+<rect x="606" y="316" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="648" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">NY</text>
+<rect x="702" y="316" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="744" y="345" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">NJ</text>
+<rect x="30" y="372" width="84" height="44" rx="7" fill="#f9edc7"/>
+<text x="72" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#765b13">MD</text>
+<rect x="126" y="372" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="168" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">DE</text>
+<rect x="222" y="372" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="264" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">CT</text>
+<rect x="318" y="372" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="360" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">RI</text>
+<rect x="414" y="372" width="84" height="44" rx="7" fill="#dce9f6"/>
+<text x="456" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#265883">MA</text>
+<rect x="510" y="372" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="552" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">VT</text>
+<rect x="606" y="372" width="84" height="44" rx="7" fill="#dbeee6"/>
+<text x="648" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#276650">NH</text>
+<rect x="702" y="372" width="84" height="44" rx="7" fill="#fae2df"/>
+<text x="744" y="401" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#922d2d">ME</text>
+<text x="30" y="461" font-family="sans-serif" font-size="12" fill="#516575">Tile positions follow the supplied list; colors satisfy the adjacency graph in map_csp.json.</text>
+</svg>

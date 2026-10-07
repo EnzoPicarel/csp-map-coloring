@@ -1,0 +1,59 @@
+{
+  "python": "3.12.3",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "data_sha256": "d3871942ed4349596bd4462ce3895d880140eeb3bed19d9dd1708c662e1a252a",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "repeats": 3,
+  "shuffle_count": 40,
+  "max_assignments": 20000000,
+  "timing": "Solver time after input validation; includes search bookkeeping.",
+  "summary": [
+    {
+      "algorithm": "Backtracking",
+      "runs": 30,
+      "valid_solutions": 24,
+      "unsatisfiable": 0,
+      "budget_exhausted": 6,
+      "mean_assignments": 753331.375,
+      "mean_backtracks": 188305.875,
+      "mean_runtime_ms": 838.2287878748684,
+      "median_runtime_ms": 17.90427200103295,
+      "stdev_runtime_ms": 1910.548185886402
+    },
+    {
+      "algorithm": "MRV",
+      "runs": 30,
+      "valid_solutions": 30,
+      "unsatisfiable": 0,
+      "budget_exhausted": 0,
+      "mean_assignments": 98.9,
+      "mean_backtracks": 0,
+      "mean_runtime_ms": 1.1389552666514646,
+      "median_runtime_ms": 0.8550480006306316,
+      "stdev_runtime_ms": 0.5095716270244236
+    },
+    {
+      "algorithm": "MRV + FC",
+      "runs": 30,
+      "valid_solutions": 30,
+      "unsatisfiable": 0,
+      "budget_exhausted": 0,
+      "mean_assignments": 48,
+      "mean_backtracks": 0,
+      "mean_runtime_ms": 8.138284833451811,
+      "median_runtime_ms": 5.908668500524072,
+      "stdev_runtime_ms": 3.5864739555317193
+    }
+  ]
+}

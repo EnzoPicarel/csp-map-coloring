@@ -1,0 +1,78 @@
+{
+  "variables": [
+    "WA", "OR", "CA", "NV", "ID", "UT", "AZ",
+    "MT", "WY", "CO", "NM",
+    "ND", "SD", "NE", "KS", "OK", "TX",
+    "MN", "IA", "MO", "AR", "LA",
+    "WI", "IL", "IN", "MI", "OH",
+    "KY", "TN", "MS", "AL", "GA",
+    "FL", "SC", "NC", "VA", "WV", "PA",
+    "NY", "NJ", "MD", "DE", "CT", "RI",
+    "MA", "VT", "NH", "ME"
+  ],
+
+  "colors": [
+    "RED",
+    "GREEN",
+    "BLUE",
+    "YELLOW"
+  ],
+
+  "neighbors": {
+    "WA": ["OR", "ID"],
+    "OR": ["WA", "ID", "NV", "CA"],
+    "CA": ["OR", "NV", "AZ"],
+    "NV": ["OR", "CA", "ID", "UT", "AZ"],
+    "ID": ["WA", "OR", "NV", "UT", "WY", "MT"],
+    "UT": ["ID", "NV", "AZ", "CO", "WY"],
+    "AZ": ["CA", "NV", "UT", "NM"],
+
+    "MT": ["ID", "WY", "SD", "ND"],
+    "WY": ["MT", "ID", "UT", "CO", "NE", "SD"],
+    "CO": ["WY", "UT", "NM", "OK", "KS", "NE"],
+    "NM": ["AZ", "CO", "OK", "TX"],
+
+    "ND": ["MT", "SD", "MN"],
+    "SD": ["ND", "MT", "WY", "NE", "IA", "MN"],
+    "NE": ["SD", "WY", "CO", "KS", "MO", "IA"],
+    "KS": ["NE", "CO", "OK", "MO"],
+    "OK": ["CO", "NM", "KS", "MO", "AR", "TX"],
+    "TX": ["NM", "OK", "AR", "LA"],
+
+    "MN": ["ND", "SD", "IA", "WI"],
+    "IA": ["SD", "NE", "MO", "IL", "WI", "MN"],
+    "MO": ["NE", "KS", "OK", "AR", "TN", "KY", "IL", "IA"],
+    "AR": ["OK", "MO", "TN", "MS", "LA", "TX"],
+    "LA": ["TX", "AR", "MS"],
+
+    "WI": ["MN", "IA", "IL", "MI"],
+    "IL": ["IA", "MO", "KY", "IN", "WI"],
+    "IN": ["IL", "KY", "OH", "MI"],
+    "MI": ["WI", "IN", "OH"],
+
+    "OH": ["MI", "IN", "KY", "WV", "PA"],
+    "KY": ["IL", "MO", "IN", "OH", "WV", "VA", "TN"],
+    "TN": ["MO", "AR", "MS", "AL", "GA", "NC", "VA", "KY"],
+    "MS": ["AR", "LA", "TN", "AL"],
+    "AL": ["MS", "TN", "GA", "FL"],
+
+    "GA": ["AL", "FL", "TN", "NC", "SC"],
+    "FL": ["AL", "GA"],
+    "SC": ["GA", "NC"],
+    "NC": ["SC", "GA", "TN", "VA"],
+    "VA": ["NC", "TN", "KY", "WV", "MD"],
+    "WV": ["OH", "KY", "VA", "PA", "MD"],
+
+    "PA": ["OH", "WV", "NY", "NJ", "DE", "MD"],
+    "NY": ["PA", "NJ", "CT", "MA", "VT"],
+    "NJ": ["PA", "NY", "DE"],
+    "MD": ["WV", "VA", "PA", "DE"],
+    "DE": ["MD", "PA", "NJ"],
+    "CT": ["NY", "MA", "RI"],
+    "RI": ["CT", "MA"],
+    "MA": ["NY", "CT", "RI", "VT", "NH"],
+    "VT": ["NY", "MA", "NH"],
+    "NH": ["VT", "MA", "ME"],
+    "ME": ["NH"]
+  }
+}
